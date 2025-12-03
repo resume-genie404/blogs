@@ -1,7 +1,9 @@
 ---
 title: "Resumes & Careers: How to Stand Out in a Competitive Job Market"
-date: 2025-01-15
-description: "A deep dive into modern resume strategy, hiring trends, and career growth."
+author: "JobsGenie Team"
+date: "2025-12-03"
+excerpt: "Master the art of resume writing with our comprehensive guide. Learn proven strategies, formatting tips, and insider secrets that will help your resume stand out from the competition."
+tags: ["resume", "career", "job search", "professional development", "tips"]
 ---
 
 
