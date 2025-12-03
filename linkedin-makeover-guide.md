@@ -1,5 +1,5 @@
 ---
-title: LinkedIn Makeover: How to Attract Recruiters to Your Profile
+title: "LinkedIn Makeover: How to Attract Recruiters to Your Profile"
 author: JobsGenie Team
 date: 2024-12-02
 excerpt: Is your LinkedIn profile gathering dust? Learn how to optimize your headline, summary, and activity to turn your profile into a 24/7 recruiter magnet.
