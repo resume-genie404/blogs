@@ -1,3 +1,10 @@
+---
+title: "Resumes & Careers: How to Stand Out in a Competitive Job Market"
+date: 2025-01-15
+description: "A deep dive into modern resume strategy, hiring trends, and career growth."
+---
+
+
 # 📄 Resumes & Careers: How to Stand Out in a Competitive Job Market
 
 ![Resumes and Career Growth](https://images.unsplash.com/photo-1521791136064-7986c2920216)
