@@ -157,4 +157,3 @@ Small fixes often create big results.
 
 ---
 
-*Markdown formatted for direct publishing.*  
