@@ -141,5 +141,3 @@ Focus on these five pillars, and you’ll instantly strengthen your chances in a
 Your resume is the first step — make it count.
 
 ---
-
-*Markdown formatted and structured for seamless publishing.*  
