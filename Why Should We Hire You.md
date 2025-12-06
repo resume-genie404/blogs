@@ -1,7 +1,7 @@
 ---
 title: "How to Answer: 'How to Answer “Why Should We Hire You?"
 author: "JobsGenie Team"
-date: "2025-12-05"
+date: "2025-12-06"
 excerpt: "Learn a proven, polished method for answering one of the most important interview questions — without sounding scripted or generic."
 tags: ["interview tips", "career", "job search", "professional development", "HR questions"]
 ---
@@ -77,4 +77,3 @@ It’s confident. It’s warm. It works.
 - SHRM — Competency-Based Interview Strategies  
 
 ---
-
