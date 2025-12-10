@@ -1,6 +1,12 @@
+---
+title: "10 Must‑Have Features of a Standout CV"
+author: "JobsGenie Team"
+date: "10 December 2025"
+Tags: ["CV, Resume Writing, Job Search, Career Development, ATS, Professional Branding"]
+---
+
+
 # 10 Must‑Have Features of a Standout CV  
-**Date:** 10 December 2025  
-**Tags:** CV, Resume Writing, Job Search, Career Development, ATS, Professional Branding  
 
 ![Professional CV Layout](https://images.unsplash.com/photo-1521737604893-d14cc237f11d)
 
