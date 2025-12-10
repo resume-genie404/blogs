@@ -1,5 +1,5 @@
 ---
-title: "Build a CV That Gets Noticed — And Gets Results"
+title: "The Modern CV Blueprint: What Today’s Employers Expect"
 author: "JobsGenie Team"
 date: "10 December 2025"
 Tags: ["CV, Modern Resume, Talent Acquisition, Career Strategy, Personal Branding, ATS"]
