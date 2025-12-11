@@ -6,7 +6,7 @@ excerpt: "Most candidates underestimate this final interview question — but it
 tags: ["interview tips", "career", "job search", "professional development", "HR questions"]
 ---
 
-# ❓ Interviewer: “Do you have any questions for us?”
+# Interviewer: “Do you have any questions for us?”
 
 ![Interview Conversation](https://images.unsplash.com/photo-1521791136064-7986c2920216)
 
